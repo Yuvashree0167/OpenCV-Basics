@@ -1,20 +1,30 @@
 # OpenCV Basics
 
-A beginner-friendly image processing program using Python, OpenCV, and imutils.
+A beginner-friendly collection of image processing projects using Python, OpenCV, and imutils.
 
-## What this project does
+## Projects
 
-- Reads an image
-- Resizes the image to 500 pixels wide
-- Saves the resized image
+### 01. Image Resizing
+
+* Reads an image
+* Resizes the image to 500 pixels wide
+* Saves the resized image
+
+### 02. Gaussian Blur
+
+* Reads an image
+* Converts the image to grayscale
+* Applies Gaussian Blur for image smoothing
+* Saves the blurred image
 
 ## Technologies Used
 
-- Python
-- OpenCV
-- imutils
+* Python
+* OpenCV
+* imutils
 
 ## Installation
 
 ```bash
 pip install opencv-python imutils
+```
