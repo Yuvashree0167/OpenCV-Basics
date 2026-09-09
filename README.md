@@ -17,6 +17,13 @@ A beginner-friendly collection of image processing projects using Python, OpenCV
 * Applies Gaussian Blur for image smoothing
 * Saves the blurred image
 
+### 03. Webcam Stream
+
+* Accesses the computer webcam
+* Captures video frames in real time
+* Displays the live video stream
+* Press `q` to exit the webcam stream
+
 ## Technologies Used
 
 * Python
